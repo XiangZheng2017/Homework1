@@ -1,3 +1,3 @@
 # Homework1
 
-This is the first edition.
+This is the second edition.
